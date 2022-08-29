@@ -6,10 +6,10 @@ Il ne dispose que d'une commande `/ping` mais vous pouvais en créé par vous me
 
 ##Tout est prets juste a modifier dans le `__config.js__`, remplacer le `*TOKEN-DU-BOT*`par le votre: 
 
-`1. Code a changer`
+`Code a changer`
 
       module.exports = {
       token: "TOKEN-DU-BOT"
-  }
+      }
   
 Pour plus d'aide aller sur le Discord: https://discord.gg/devenigma
