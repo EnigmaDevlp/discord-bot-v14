@@ -6,7 +6,7 @@ Il ne dispose que d'une commande `/ping` mais vous pouvais en créé par vous me
 
 -----------------
 
-##Tout est prets juste a modifier dans le `__config.js__`, remplacer le `*TOKEN-DU-BOT*`par le votre: 
+##Tout est prets juste a modifier dans le `config.js`, remplacer le `TOKEN-DU-BOT`par le votre: 
 
 `Code a changer`
 
