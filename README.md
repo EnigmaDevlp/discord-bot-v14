@@ -8,8 +8,8 @@ Il ne dispose que d'une commande `/ping` mais vous pouvais en créé par vous me
 
 `1. Code a changer`
 
-      `module.exports = {
+      module.exports = {
       token: "TOKEN-DU-BOT"
-  }`
+  }
   
 Pour plus d'aide aller sur le Discord: https://discord.gg/devenigma
